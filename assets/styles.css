@@ -16,3 +16,9 @@ background: linear-gradient(90deg, rgba(225,165,165,0.37625472552302175) 51%, rg
 .btn-group-vertical {
     margin-inline-start: 50%;
 }
+.fondo-section2 {
+    background-color: rgb(230, 230, 210);
+}
+.fondo-section21 {
+    background-color: rgb(222, 222, 223);
+}
