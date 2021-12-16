@@ -1,0 +1,39 @@
+.bg-nav-custom {
+    background: rgb(225,165,165);
+background: linear-gradient(90deg, rgba(225,165,165,0.37625472552302175) 51%, rgba(221,214,203,1) 100%);
+    }
+
+.nav-item {
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.fondo-botones {  
+    background-size: cover;
+    background-image: url("img/imagensection1.jpg");
+}
+.fondo-section1 {
+    background-color: rgb(233, 160, 172);
+}
+.btn-group-vertical {
+    margin-inline-start: 50%;
+}
+.fondo-section2 {
+    background-color: rgb(230, 230, 210);
+}
+.fondo-section21 {
+    background-color: rgb(215, 215, 226);
+}
+.fondo-section3 {
+    background-size: cover;
+    background-image: url("img/imagenbannerS3.png");
+}
+.title-S3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+.title-co {
+    background-color: rgb(231, 197, 202);
+}
+.title-comentarios {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
