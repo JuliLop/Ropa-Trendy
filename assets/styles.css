@@ -20,5 +20,14 @@ background: linear-gradient(90deg, rgba(225,165,165,0.37625472552302175) 51%, rg
     background-color: rgb(230, 230, 210);
 }
 .fondo-section21 {
-    background-color: rgb(222, 222, 223);
+    background-color: rgb(215, 215, 226);
 }
+.fondo-section3 {
+    background-size: cover;
+    background-image: url("img/imagenbannerS3.png");
+}
+.title-S3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
